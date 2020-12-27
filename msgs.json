@@ -7,7 +7,10 @@
     },
     "Tiburcio": {
         "message": "!ip 147.135.112.30"
-    }    
+    },
+    "test": {
+        "message": "!ip 95.16.192.133"
+    },
     "Mcascob51": {
         "message": "!ip 163.172.62.131"
     },    
